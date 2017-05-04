@@ -6,10 +6,10 @@
     "campaign": 1000,
     "ra": 290.66666667,
     "dec": 44.5,
-    "roll": 123.0,
+    "roll": 19.5,
     "start": "2009-05-13",
     "stop": "2013-05-14",
-    "comments": "Original Kepler field; roll is 33.0 + season*90",
+    "comments": "Original Kepler field; roll is 19.5 + season*90",
     "preliminary": "False"
   },
   "c1001": {
